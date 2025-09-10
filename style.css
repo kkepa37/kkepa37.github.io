@@ -1,14 +1,21 @@
 p
 
 {    
-    color: red;
+    color: black;
     font-size: 12pt;
     font-family: "Parkinsans", serif;
 }
 
 body{
 
-    background-color: black;
+    background-color: white;
 
+
+}
+
+h2{
+
+    color:black;
+    font-size: 40px;
 
 }
