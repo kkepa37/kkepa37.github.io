@@ -2,7 +2,7 @@ p
 
 {    
     color: black;
-    font-size: 12pt;
+    font-size: 14pt;
     font-family: "Parkinsans", serif;
 }
 
@@ -19,3 +19,12 @@ h2{
     font-size: 40px;
 
 }
+```css
+body {
+    background-image: url('https://i.pinimg.com/originals/01/b0/62/01b0625632f43e3079a0b9975c18f819.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+```
+
